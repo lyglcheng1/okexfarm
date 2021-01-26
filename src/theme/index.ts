@@ -6,11 +6,11 @@ const theme = {
     mobile: 400,
   },
   color: {
-    black,
+    white,
     grey,
     primary: {
-      light: red[200],
-      main: red[500],
+      light: white[200],
+      main: white[500],
     },
     secondary: {
       main: green[500],
