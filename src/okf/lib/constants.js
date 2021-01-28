@@ -42,16 +42,120 @@ export const contractAddresses = {
 export const supportedPools = [
   // Perm Menu
   {
-    pid: 0,
+    pid: 12,
     lpAddresses: {
-      3: '0x9514799939f381e7D6B58DbE80C8D8Ea110EbCF5',
+      1: '0x795065dCc9f64b5614C407a6EFDC400DA6221FB0',
     },
     tokenAddresses: {
-      3: '0x9514799939f381e7D6B58DbE80C8D8Ea110EbCF5',
+      1: '0x6b3595068778dd592e39a122f4f5a5cf09c90fe2',
     },
-    name: 'Okf Party!',
-    symbol: 'OKF-OKF SLP',
-    tokenSymbol: 'OKF',
+    name: 'Sushi Party!',
+    symbol: 'SUSHI-ETH SLP',
+    tokenSymbol: 'SUSHI',
     icon: '🍣',
+  },
+  {
+    pid: 1,
+    lpAddresses: {
+      1: '0x397FF1542f962076d0BFE58eA045FfA2d347ACa0',
+    },
+    tokenAddresses: {
+      1: '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48',
+    },
+    name: 'Circle Snail',
+    symbol: 'USDC-ETH SLP',
+    tokenSymbol: 'USDC',
+    icon: '🐌',
+  },
+  {
+    pid: 2,
+    lpAddresses: {
+      1: '0xC3D03e4F041Fd4cD388c549Ee2A29a9E5075882f',
+    },
+    tokenAddresses: {
+      1: '0x6b175474e89094c44da98b954eedeac495271d0f',
+    },
+    name: 'Donald DAI',
+    symbol: 'DAI-ETH SLP',
+    tokenSymbol: 'DAI',
+    icon: '🦆',
+  },
+  {
+    pid: 21,
+    lpAddresses: {
+      1: '0xceff51756c56ceffca006cd410b03ffc46dd3a58',
+    },
+    tokenAddresses: {
+      1: '0x2260fac5e5542a773aa44fbcfedf7c193bc2c599',
+    },
+    name: "BitCorn",
+    symbol: 'WBTC-ETH SLP',
+    tokenSymbol: 'WBTC',
+    icon: '🌽',
+  },
+  {
+    pid: 0,
+    lpAddresses: {
+      1: '0x06da0fd433C1A5d7a4faa01111c044910A184553',
+    },
+    tokenAddresses: {
+      1: '0xdac17f958d2ee523a2206206994597c13d831ec7',
+    },
+    name: 'Tether Turtle',
+    symbol: 'USDT-ETH SLP',
+    tokenSymbol: 'USDT',
+    icon: '🐢',
+  },
+  {
+    pid: 11,
+    lpAddresses: {
+      1: '0x088ee5007C98a9677165D78dD2109AE4a3D04d0C',
+    },
+    tokenAddresses: {
+      1: '0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e',
+    },
+    name: 'YFI Whale',
+    symbol: 'YFI-ETH SLP',
+    tokenSymbol: 'YFI',
+    icon: '🐋',
+  },
+  {
+    pid: 3,
+    lpAddresses: {
+      1: '0xF1F85b2C54a2bD284B1cf4141D64fD171Bd85539',
+    },
+    tokenAddresses: {
+      1: '0x57ab1ec28d129707052df4df418d58a2d46d5f51',
+    },
+    name: 'Spartan Dollar',
+    symbol: 'SUSD-ETH SLP',
+    tokenSymbol: 'SUSD',
+    icon: '🦍',
+  },
+  {
+    pid: 8,
+    lpAddresses: {
+      1: '0xC40D16476380e4037e6b1A2594cAF6a6cc8Da967',
+    },
+    tokenAddresses: {
+      1: '0x514910771af9ca656af840dff83e8264ecf986ca',
+    },
+    name: 'Toadie Marine',
+    symbol: 'LINK-ETH SLP',
+    tokenSymbol: 'LINK',
+    icon: '🐸',
+  },
+  {
+    pid: 37,
+    lpAddresses: {
+      1: '0xD75EA151a61d06868E31F8988D28DFE5E9df57B4',
+    },
+    tokenAddresses: {
+      1: '0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9',
+    },
+    name: 'Aave Boar',
+    symbol: 'AAVE-ETH SLP',
+    tokenSymbol: 'AAVE',
+    icon: '🐗',
   }
-]
+  ]
