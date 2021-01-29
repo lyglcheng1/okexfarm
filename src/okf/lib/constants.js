@@ -57,14 +57,14 @@ export const supportedPools = [
   {
     pid: 1,
     lpAddresses: {
-      1: '0x397FF1542f962076d0BFE58eA045FfA2d347ACa0',
+      1: '0x4B76151275Fc32Fc9c0D333BbDbEb5eBD7229abA',
     },
     tokenAddresses: {
-      1: '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48',
+      1: '0x20fe562d797a42dcb3399062ae9546cd06f63280',
     },
     name: 'Circle Snail',
-    symbol: 'USDC-ETH SLP',
-    tokenSymbol: 'USDC',
+    symbol: 'LINK-HDP SLP',
+    tokenSymbol: 'LINK',
     icon: '🐌',
   },
   {
