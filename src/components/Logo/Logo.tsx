@@ -8,7 +8,7 @@ const Logo: React.FC = () => {
     <StyledLogo to="/">
       <img src={chef} height="32" style={{ marginTop: -4 }} />
       <StyledText>
-        OkfSwap <MasterChefText>MasterChef</MasterChefText>
+        OKEX <MasterChefText>FARM</MasterChefText>
       </StyledText>
     </StyledLogo>
   )
@@ -26,7 +26,7 @@ const StyledLogo = styled(Link)`
 `
 
 const StyledText = styled.span`
-  color: ${(props) => props.theme.color.grey[600]};
+  color: ${(props) => props.theme.color.white[600]};
   font-family: 'Reem Kufi', sans-serif;
   font-size: 20px;
   font-weight: 700;
