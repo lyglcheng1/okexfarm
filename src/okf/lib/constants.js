@@ -26,10 +26,10 @@ export const INTEGERS = {
 
 export const contractAddresses = {
   okf: {
-    3: '0x9514799939f381e7D6B58DbE80C8D8Ea110EbCF5',
+    3: '0x9a6f7B14d612d1E8854e40D79EacC3E5A1989f42',
   },
   masterChef: {
-    3: '0x14a5c39124d99E960d73DaBbdfd2704e7eD6C2aD',
+    3: '0x40A1Cb6B9a19061E4cE312E92570159196E847c2',
   },
   weth: {
     3: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
@@ -44,14 +44,14 @@ export const supportedPools = [
   {
     pid: 12,
     lpAddresses: {
-      1: '0x795065dCc9f64b5614C407a6EFDC400DA6221FB0',
+      1: '0x7a250d5630b4cf539739df2c5dacb4c659f2488d',
     },
     tokenAddresses: {
-      1: '0x6b3595068778dd592e39a122f4f5a5cf09c90fe2',
+      1: '0x06aeb824c096f0a842c1395f51e834f16a2aade8',
     },
-    name: 'Sushi Party!',
-    symbol: 'SUSHI-ETH SLP',
-    tokenSymbol: 'SUSHI',
+    name: 'HDP Party!',
+    symbol: 'ETH-HDP SLP',
+    tokenSymbol: 'HDP',
     icon: '🍣',
   },
   {
