@@ -44,10 +44,10 @@ export const supportedPools = [
   {
     pid: 12,
     lpAddresses: {
-      1: '0x7a250d5630b4cf539739df2c5dacb4c659f2488d',
+      3: '0x7a250d5630b4cf539739df2c5dacb4c659f2488d',
     },
     tokenAddresses: {
-      1: '0x06aeb824c096f0a842c1395f51e834f16a2aade8',
+      3: '0x06aeb824c096f0a842c1395f51e834f16a2aade8',
     },
     name: 'HDP Party!',
     symbol: 'ETH-HDP SLP',
@@ -57,10 +57,10 @@ export const supportedPools = [
   {
     pid: 1,
     lpAddresses: {
-      1: '0x4B76151275Fc32Fc9c0D333BbDbEb5eBD7229abA',
+      3: '0x4B76151275Fc32Fc9c0D333BbDbEb5eBD7229abA',
     },
     tokenAddresses: {
-      1: '0x20fe562d797a42dcb3399062ae9546cd06f63280',
+      3: '0x20fe562d797a42dcb3399062ae9546cd06f63280',
     },
     name: 'Circle Snail',
     symbol: 'LINK-HDP SLP',
