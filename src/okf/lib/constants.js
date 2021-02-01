@@ -53,7 +53,7 @@ export const supportedPools = [
     name: 'Circle Snail',
     symbol: 'LINK-HDP SLP',
     tokenSymbol: 'LINK',
-    icon: '❤', 
+    icon: '🍱', 
   },
   
    {
