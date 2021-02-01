@@ -55,5 +55,19 @@ export const supportedPools = [
     tokenSymbol: 'LINK',
     icon: '❤', 
   },
+  
+   {
+    pid: 3,
+    lpAddresses: {
+      3: '0x4b76151275fc32fc9c0d333bbdbeb5ebd7229aba', 
+    },
+    tokenAddresses: {
+      3: '0x9a6f7B14d612d1E8854e40D79EacC3E5A1989f42', 
+    },
+    name: 'Circle Snail',
+    symbol: 'UNISWAP-OKZ V2',
+    tokenSymbol: 'OKZ',
+    icon: '❤', 
+  },
  
   ]
