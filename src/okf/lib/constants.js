@@ -43,7 +43,7 @@ export const supportedPools = [
   // Perm Menu
  
   {
-    pid: 3,
+    pid: 0,
     lpAddresses: {
       3: '0x4b76151275fc32fc9c0d333bbdbeb5ebd7229aba', 
     },
@@ -51,7 +51,7 @@ export const supportedPools = [
       3: '0xf25bf79c3e0332d8b7d69dc0f5da9ffeaf1e86e0', 
     },
     name: 'Circle Snail',
-    symbol: 'HDP-WETH SLP',
+    symbol: 'HDP-link SLP',
     tokenSymbol: 'HDP',
     icon: '🍱', 
   },
