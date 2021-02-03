@@ -26,10 +26,10 @@ export const INTEGERS = {
 
 export const contractAddresses = {
   okf: {
-    3: '0x9a6f7B14d612d1E8854e40D79EacC3E5A1989f42',
+    3: '0xC28D4341Ad8224E1a424558074eF0B4515f424d5',
   },
   masterChef: {
-    3: '0x40A1Cb6B9a19061E4cE312E92570159196E847c2',
+    3: '0x2886310754B84001C04E1909554d5d7E2B6F6EBE',
   },
   weth: {
     3: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
@@ -45,14 +45,14 @@ export const supportedPools = [
   {
     pid: 2,
     lpAddresses: {
-      3: '0x9a6f7B14d612d1E8854e40D79EacC3E5A1989f42', 
+      3: '0x8C53581Dca8CA2D166b9841C709b4536A97a3955', 
     },
     tokenAddresses: {
-      3: '0x9a6f7B14d612d1E8854e40D79EacC3E5A1989f42', 
+      3: '0x06aeb824c096f0a842c1395f51e834f16a2aade8', 
     },
     name: 'Circle Snail',
-    symbol: 'LINK-HDP SLP',
-    tokenSymbol: 'LINK',
+    symbol: 'HDP-WETH SLP',
+    tokenSymbol: 'HDP',
     icon: '🍱', 
   },
   
@@ -62,11 +62,11 @@ export const supportedPools = [
       3: '0x4b76151275fc32fc9c0d333bbdbeb5ebd7229aba', 
     },
     tokenAddresses: {
-      3: '0x9a6f7B14d612d1E8854e40D79EacC3E5A1989f42', 
+      3: '0x20fe562d797a42dcb3399062ae9546cd06f63280', 
     },
     name: 'Circle Snail',
-    symbol: 'UNISWAP-OKZ V2',
-    tokenSymbol: 'OKZ',
+    symbol: 'LINK-HDP V2',
+    tokenSymbol: 'LINK',
     icon: '❤', 
   },
  
