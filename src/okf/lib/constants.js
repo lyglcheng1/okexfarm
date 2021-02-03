@@ -43,7 +43,7 @@ export const supportedPools = [
   // Perm Menu
  
   {
-    pid: 1,
+    pid: 2,
     lpAddresses: {
       3: '0x4b76151275fc32fc9c0d333bbdbeb5ebd7229aba', 
     },
