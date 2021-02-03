@@ -26,10 +26,10 @@ export const INTEGERS = {
 
 export const contractAddresses = {
   okf: {
-    3: '0xC28D4341Ad8224E1a424558074eF0B4515f424d5',
+    3: '0xf25bf79c3e0332d8b7d69dc0f5da9ffeaf1e86e0',
   },
   masterChef: {
-    3: '0x2886310754B84001C04E1909554d5d7E2B6F6EBE',
+    3: '0xB8c0E3F97794a89d6FAca10B4b8cb95c4Af3C4eD',
   },
   weth: {
     3: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
@@ -48,7 +48,7 @@ export const supportedPools = [
       3: '0x4b76151275fc32fc9c0d333bbdbeb5ebd7229aba', 
     },
     tokenAddresses: {
-      3: '0xC28D4341Ad8224E1a424558074eF0B4515f424d5', 
+      3: '0xf25bf79c3e0332d8b7d69dc0f5da9ffeaf1e86e0', 
     },
     name: 'Circle Snail',
     symbol: 'HDP-WETH SLP',
