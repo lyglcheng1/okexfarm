@@ -37,15 +37,9 @@ const DisclaimerModal: React.FC<DisclaimerModal> = ({
       return (
         <div>
           <p> With great pleasure we would like to invite you the launch
-              of Omakase Bar!
+              of Okex Farm!
           </p>
-          <p> Omakase Bar will be the home of our new frontend, and provides
-              an interface for all interactions with the OkfSwap protocol.
-          </p>
-          <p> Development will be on going, and okfswapclassic will still
-              exist in the interim as we work to get Omakase Bar completely
-              polished.
-          </p>
+          
         </div>
       )
     } else {
