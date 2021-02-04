@@ -16,10 +16,16 @@ const Nav: React.FC = () => {
       </StyledLink>
       
       <StyledAbsoluteLink
-        href="https://exchange.okfswapclassic.org"
+        href="https://app.uniswap.org/"
         target="_blank"
       >
         Exchange
+      </StyledAbsoluteLink>
+      <StyledAbsoluteLink
+        href="https://okex.farm/static/media/coming-soon.jpg"
+        target="_blank"
+      >
+        OKExChain
       </StyledAbsoluteLink>
   
     </StyledNav>
