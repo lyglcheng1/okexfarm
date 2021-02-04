@@ -26,16 +26,16 @@ export const INTEGERS = {
 
 export const contractAddresses = {
   okf: {
-    3: '0xf25bf79c3e0332d8b7d69dc0f5da9ffeaf1e86e0',
+    3: '0x71B8A561dE89102Fd2e866c7598d5F958F262A88',
   },
   masterChef: {
-    3: '0xB8c0E3F97794a89d6FAca10B4b8cb95c4Af3C4eD',
+    3: '0xB7fD921e15904645Bc7f5308f3e6a843080928B3',
   },
   weth: {
     3: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
   },
   xOkf: {
-    3: '0x490bc5127307DE120FBEb08527B9e050885f24b0'
+    3: '0xaf7600DF103A2E1C2a707E233Bd2A51Ad63c12f6'
   }
 }
 
@@ -48,7 +48,7 @@ export const supportedPools = [
       3: '0x4b76151275fc32fc9c0d333bbdbeb5ebd7229aba', 
     },
     tokenAddresses: {
-      3: '0xf25bf79c3e0332d8b7d69dc0f5da9ffeaf1e86e0', 
+      3: '0x71B8A561dE89102Fd2e866c7598d5F958F262A88', 
     },
     name: 'Circle Snail',
     symbol: 'HDP-link SLP',
