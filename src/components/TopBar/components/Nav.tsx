@@ -22,7 +22,7 @@ const Nav: React.FC = () => {
         Exchange
       </StyledAbsoluteLink>
       <StyledAbsoluteLink
-        href="https://okex.farm/static/media/coming-soon.jpg"
+        href="https://okex.farm/coming-soon.jpg"
         target="_blank"
       >
         OKExChain
