@@ -40,7 +40,7 @@ const UnstakeXOkf: React.FC<HarvestProps> = ({lpContract}) => {
       <CardContent>
         <StyledCardContentInner>
           <StyledCardHeader>
-            <CardIcon>🍣</CardIcon>
+            <CardIcon>✤</CardIcon>
             <Value value={getBalanceNumber(xOkfBalance)}/>
             <Label text="xOKF (OkfBar) Available"/>
           </StyledCardHeader>
