@@ -6,7 +6,7 @@ const Nav: React.FC = () => {
     <StyledNav>
       <StyledLink
         target="_blank"
-        href="https://etherscan.io/address/0xc2edad668740f1aa35e4d8f227fb8e17dca888cd#code"
+        href="https://ropsten.etherscan.io/address/0xb7fd921e15904645bc7f5308f3e6a843080928b3#code"
       >
         MasterChef Contract
       </StyledLink>
@@ -16,16 +16,16 @@ const Nav: React.FC = () => {
       >
         OkfSwap OKF-ETH
       </StyledLink> */}
-      <StyledLink target="_blank" href="https://discord.gg/sqhXAqc">
+      <StyledLink target="_blank" href="https://discord.gg/QvC7ArF7rd">
         Discord
       </StyledLink>
-      <StyledLink target="_blank" href="https://github.com/okfswap">
+      <StyledLink target="_blank" href="https://github.com/okexfarm/okexfarm">
         Github
       </StyledLink>
-      <StyledLink target="_blank" href="https://twitter.com/okfswap">
+      <StyledLink target="_blank" href="https://twitter.com/okexfarm">
         Twitter
       </StyledLink>
-      <StyledLink target="_blank" href="https://medium.com/@okfswapchef">
+      <StyledLink target="_blank" href="https://medium.com/@okexfarm">
         Medium
       </StyledLink>
     </StyledNav>
