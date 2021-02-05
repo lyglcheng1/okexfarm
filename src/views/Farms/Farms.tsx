@@ -27,7 +27,7 @@ const Farms: React.FC = () => {
             <Route exact path={path}>
               <PageHeader
                 icon={<img src={chef} height="120" />}
-                subtitle="Earn OKF tokens by staking OkfSwap V2 SLP Tokens."
+                subtitle="Earn OKF tokens by staking uniswap V2 LP Tokens."
                 title="Select Your Favorite Dishes"
               />
               <div
