@@ -83,16 +83,11 @@ const Farm: React.FC = () => {
         <Spacer size="md" />
         <StyledLink
           target="__blank"
-          href={`https://okfswap.vision/pair/${lpTokenAddress}`}
+          href={`https://info.uniswap.org/pairs/${lpTokenAddress}`}
         >
           {lpTokenName} Info
         </StyledLink>
-        <StyledLink
-          target="__blank"
-          href={`https://lite.okfswap.fi/#/migrate`}
-        >
-          UNI to SLP 1 Click Migration
-        </StyledLink>
+        
       </StyledFarm>
     </>
   )
