@@ -28,6 +28,9 @@ const Nav: React.FC = () => {
       <StyledLink target="_blank" href="https://medium.com/@okexfarm">
         Medium
       </StyledLink>
+       <StyledLink target="_blank" href="https://t.me/okexfarm">
+        Telegram
+      </StyledLink>
     </StyledNav>
   )
 }
