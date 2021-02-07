@@ -26,16 +26,16 @@ export const INTEGERS = {
 
 export const contractAddresses = {
   okf: {
-    3: '0x71B8A561dE89102Fd2e866c7598d5F958F262A88',
+    1: '0xB7fD921e15904645Bc7f5308f3e6a843080928B3',
   },
   masterChef: {
-    3: '0xB7fD921e15904645Bc7f5308f3e6a843080928B3',
+    1: '0xaf7600DF103A2E1C2a707E233Bd2A51Ad63c12f6',
   },
   weth: {
-    3: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
+    1: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
   },
   xOkf: {
-    3: '0xaf7600DF103A2E1C2a707E233Bd2A51Ad63c12f6'
+    1: '0xcf6cCC6a81138069a36C3A604595e8cFA617fd2c'
   }
 }
 
@@ -45,15 +45,41 @@ export const supportedPools = [
   {
     pid: 0,
     lpAddresses: {
-      3: '0x4b76151275fc32fc9c0d333bbdbeb5ebd7229aba', 
+      1: '0x17782D58c715aa2A4458D5FB1C1d8e52a69a62Fc', 
     },
     tokenAddresses: {
-      3: '0x71B8A561dE89102Fd2e866c7598d5F958F262A88', 
+      1: '0xB7fD921e15904645Bc7f5308f3e6a843080928B3', 
     },
-    name: 'Circle Snail',
-    symbol: 'HDP-link SLP',
-    tokenSymbol: 'HDP',
+    name: 'OKEx FOOD',
+    symbol: 'OKB-ETH V2 LP',
+    tokenSymbol: 'OKB',
     icon: '🍱', 
   },
+ {
+    pid: 1,
+    lpAddresses: {
+      1: '0x66C26362767F424c0ffA987598C63d1B10d4198b',
+    },
+    tokenAddresses: {
+      1: '0xB7fD921e15904645Bc7f5308f3e6a843080928B3',
+    },
+    name: 'Circle Snail',
+    symbol: 'BYFI-ETH V2 LP',
+    tokenSymbol: 'BYFI',
+    icon: '🐌',
+  },
   
+  {
+    pid: 2,
+    lpAddresses: {
+      1: '0x1281b6f77C38ede5856550525Ff18708469999d7',
+    },
+    tokenAddresses: {
+      1: '0xB7fD921e15904645Bc7f5308f3e6a843080928B3',
+    },
+    name: "BitCorn",
+    symbol: 'BFCORE-BYFI V2 LP',
+    tokenSymbol: 'BFCORE',
+    icon: '🌽',
+  },
   ]
