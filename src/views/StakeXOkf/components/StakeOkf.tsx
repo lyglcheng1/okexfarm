@@ -27,7 +27,7 @@ const StakeOkf: React.FC<StakeProps> = ({}) => {
   const allowance = useAllowanceStaking()
   const {onApprove} = useApproveStaking()
 
-  const tokenBalance = useTokenBalance(contractAddresses.okf[3])
+  const tokenBalance = useTokenBalance(contractAddresses.okf[1])
 
   const {onEnter} = useEnter()
   const {onLeave} = useLeave()
