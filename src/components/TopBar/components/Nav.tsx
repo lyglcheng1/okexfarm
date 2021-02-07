@@ -27,6 +27,12 @@ const Nav: React.FC = () => {
       >
         OKExChain
       </StyledAbsoluteLink>
+      <StyledAbsoluteLink
+        href="https://okex.farm/coming-soon.jpg"
+        target="_blank"
+      >
+        NFT
+      </StyledAbsoluteLink>
   
     </StyledNav>
   )
