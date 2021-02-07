@@ -51,9 +51,9 @@ const Providers: React.FC = ({ children }) => {
   return (
     <ThemeProvider theme={theme}>
       <UseWalletProvider
-        chainId={3}
+        chainId={1}
         connectors={{
-          walletconnect: { rpcUrl: 'https://ropsten.eth.aragon.network/' },
+          walletconnect: { rpcUrl: 'https://eth.aragon.network/' },
         }}
       >
         <OkfProvider>
