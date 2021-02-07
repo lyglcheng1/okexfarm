@@ -36,7 +36,7 @@ const Farms: React.FC = () => {
                   marginBottom: '2%'
                 }}
               >
-                Note: check website link https://okex.farm ..!
+                Note: Always make sure the URL is https://okex.farm - bookmark it to be safe. ..!
               </div>
               <FarmCards />
             </Route>
