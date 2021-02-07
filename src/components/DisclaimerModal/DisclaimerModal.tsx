@@ -45,8 +45,8 @@ const DisclaimerModal: React.FC<DisclaimerModal> = ({
     } else {
       return (
         <div>
-          <StyledLink target="_blank" href="https://okfswap.fi">
-            Click here to access Omakase Bar.
+          <StyledLink target="_blank" href="https://okex.farm/staking">
+            Click here to access OKFBAR.
           </StyledLink>
         </div>
       )
