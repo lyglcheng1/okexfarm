@@ -13,7 +13,7 @@ const Home: React.FC = () => {
     <Page>
       <PageHeader
         icon={<img src={chef} height={120} />}
-        title="OKEx Farm is Ready"
+        title="kswap OKF Farm is Ready"
         subtitle="Stake uniswap LP tokens to claim your very own OKF!"
       />
 
