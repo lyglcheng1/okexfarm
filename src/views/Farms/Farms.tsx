@@ -36,7 +36,7 @@ const Farms: React.FC = () => {
                   marginBottom: '2%'
                 }}
               >
-                Note: Always make sure the URL is https://okex.farm - bookmark it to be safe. ..!
+                Note: Tip to get 4X Rewards, Farm OKF with staking OKF-OKB UNI V2 LP ..!
               </div>
               <FarmCards />
             </Route>
