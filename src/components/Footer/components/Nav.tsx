@@ -22,13 +22,13 @@ const Nav: React.FC = () => {
       <StyledLink target="_blank" href="https://github.com/okexfarm/okexfarm">
         Github
       </StyledLink>
-      <StyledLink target="_blank" href="https://twitter.com/okexfarm">
+      <StyledLink target="_blank" href="https://twitter.com/kswap_okf">
         Twitter
       </StyledLink>
-      <StyledLink target="_blank" href="https://medium.com/@okexfarm">
+      <StyledLink target="_blank" href="https://medium.com/@kswap">
         Medium
       </StyledLink>
-       <StyledLink target="_blank" href="https://t.me/okexfarm">
+       <StyledLink target="_blank" href="https://t.me/kswap_okf">
         Telegram
       </StyledLink>
     </StyledNav>
