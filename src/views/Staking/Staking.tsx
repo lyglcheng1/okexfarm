@@ -25,7 +25,7 @@ const Staking: React.FC = () => {
               <PageHeader
                 icon={<img src={chef} height="120"/>}
                 subtitle="Welcome to the Okf Bar, stake Okf to earn Okf."
-                title="OKExFARM Buffet!"
+                title="OKF Buffet!"
               />
             </Route>
             <StakeXOkf/>
