@@ -45,6 +45,20 @@ export const supportedPools = [
   {
     pid: 0,
     lpAddresses: {
+      1: '0xcC0DED3dfA28f4D1D0D3ED5c9AE878ea2C8F3Fc0', 
+    },
+    tokenAddresses: {
+      1: '0xB7fD921e15904645Bc7f5308f3e6a843080928B3', 
+    },
+    name: 'OKF FOOD',
+    symbol: 'OKF-OKB V2 LP',
+    tokenSymbol: 'OKF',
+    icon: '🍜', 
+  },
+  
+  {
+    pid: 0,
+    lpAddresses: {
       1: '0x17782D58c715aa2A4458D5FB1C1d8e52a69a62Fc', 
     },
     tokenAddresses: {
